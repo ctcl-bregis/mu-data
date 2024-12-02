@@ -1,0 +1,17 @@
+Screen 0: minimum 1920 x 1080, current 1920 x 1080, maximum 1920 x 1080
+default connected 1920x1080+0+0 (0x521) normal (normal) 0mm x 0mm
+	Identifier: 0x520
+	Timestamp:  5982
+	Subpixel:   unknown
+	Clones:    
+	CRTC:       0
+	CRTCs:      0
+	Transform:  1.000000 0.000000 0.000000
+	            0.000000 1.000000 0.000000
+	            0.000000 0.000000 1.000000
+	           filter: 
+	non-desktop: 0 
+		supported: 0, 1
+  1920x1080 (0x521) 159.667MHz *current
+        h: width  1920 start    0 end    0 total 1920 skew    0 clock  83.16KHz
+        v: height 1080 start    0 end    0 total 1080           clock  77.00Hz
